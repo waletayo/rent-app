@@ -11,7 +11,7 @@ Getting Started
 Clone the repository git clone https://github.com/waletayo/rent-app.git
 Change into the directory cd rent-app
 Install all required dependencies with npm install
-Start the application with npm run dev
+Start the application with nodemon
 
 Testing
 Run Test with npm test command
